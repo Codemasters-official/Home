@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fca4b39.css",
-    "main.js": "/static/js/main.e633f776.js",
-    "static/js/787.e4349f12.chunk.js": "/static/js/787.e4349f12.chunk.js",
-    "static/media/image2.gif": "/static/media/image2.531abab947ac689a87ff.gif",
-    "static/media/contact-bg.jpg": "/static/media/contact-bg.a0c72406225e2b593c6e.jpg",
-    "static/media/certificate_banner.jpg": "/static/media/certificate_banner.422eded7ed587114ce4f.jpg",
-    "static/media/intern-image.png": "/static/media/intern-image.6cd663d0425c9bcb67f0.png",
-    "static/media/apply-internships.gif": "/static/media/apply-internships.714ed507d7cb3c877738.gif",
-    "static/media/msme.png": "/static/media/msme.ad529d3a99a5e13c2eec.png",
-    "static/media/image1.jpg": "/static/media/image1.c3e3a2effdd543b77810.jpg",
-    "static/media/internship.png": "/static/media/internship.54fe2df4ea39a0b803c3.png",
-    "static/media/Banner.jpg": "/static/media/Banner.f1c319bb61b7307c51de.jpg",
-    "static/media/profile-pic.jpg": "/static/media/profile-pic.c18231ea2da9b7618aa3.jpg",
-    "index.html": "/index.html",
-    "main.4fca4b39.css.map": "/static/css/main.4fca4b39.css.map",
-    "main.e633f776.js.map": "/static/js/main.e633f776.js.map",
-    "787.e4349f12.chunk.js.map": "/static/js/787.e4349f12.chunk.js.map"
+    "main.css": "/Codemasters00/static/css/main.d1e6fd78.css",
+    "main.js": "/Codemasters00/static/js/main.adc5c3fc.js",
+    "static/js/787.e4349f12.chunk.js": "/Codemasters00/static/js/787.e4349f12.chunk.js",
+    "static/media/image2.gif": "/Codemasters00/static/media/image2.531abab947ac689a87ff.gif",
+    "static/media/contact-bg.jpg": "/Codemasters00/static/media/contact-bg.a0c72406225e2b593c6e.jpg",
+    "static/media/certificate_banner.jpg": "/Codemasters00/static/media/certificate_banner.422eded7ed587114ce4f.jpg",
+    "static/media/intern-image.png": "/Codemasters00/static/media/intern-image.6cd663d0425c9bcb67f0.png",
+    "static/media/apply-internships.gif": "/Codemasters00/static/media/apply-internships.714ed507d7cb3c877738.gif",
+    "static/media/msme.png": "/Codemasters00/static/media/msme.ad529d3a99a5e13c2eec.png",
+    "static/media/image1.jpg": "/Codemasters00/static/media/image1.c3e3a2effdd543b77810.jpg",
+    "static/media/internship.png": "/Codemasters00/static/media/internship.54fe2df4ea39a0b803c3.png",
+    "static/media/Banner.jpg": "/Codemasters00/static/media/Banner.f1c319bb61b7307c51de.jpg",
+    "static/media/profile-pic.jpg": "/Codemasters00/static/media/profile-pic.c18231ea2da9b7618aa3.jpg",
+    "index.html": "/Codemasters00/index.html",
+    "main.d1e6fd78.css.map": "/Codemasters00/static/css/main.d1e6fd78.css.map",
+    "main.adc5c3fc.js.map": "/Codemasters00/static/js/main.adc5c3fc.js.map",
+    "787.e4349f12.chunk.js.map": "/Codemasters00/static/js/787.e4349f12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fca4b39.css",
-    "static/js/main.e633f776.js"
+    "static/css/main.d1e6fd78.css",
+    "static/js/main.adc5c3fc.js"
   ]
 }
