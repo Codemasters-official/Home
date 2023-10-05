@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/Codemasters00/static/css/main.0eda3d94.css",
-    "main.js": "/Codemasters00/static/js/main.e31ab63f.js",
-    "static/js/787.e4349f12.chunk.js": "/Codemasters00/static/js/787.e4349f12.chunk.js",
-    "static/media/image2.gif": "/Codemasters00/static/media/image2.531abab947ac689a87ff.gif",
-    "static/media/contact-bg.jpg": "/Codemasters00/static/media/contact-bg.a0c72406225e2b593c6e.jpg",
-    "static/media/certificate_banner.jpg": "/Codemasters00/static/media/certificate_banner.422eded7ed587114ce4f.jpg",
-    "static/media/intern-image.png": "/Codemasters00/static/media/intern-image.6cd663d0425c9bcb67f0.png",
-    "static/media/apply-internships.gif": "/Codemasters00/static/media/apply-internships.714ed507d7cb3c877738.gif",
-    "static/media/msme.png": "/Codemasters00/static/media/msme.ad529d3a99a5e13c2eec.png",
-    "static/media/image1.jpg": "/Codemasters00/static/media/image1.c3e3a2effdd543b77810.jpg",
-    "static/media/internship.png": "/Codemasters00/static/media/internship.54fe2df4ea39a0b803c3.png",
-    "static/media/Banner.jpg": "/Codemasters00/static/media/Banner.f1c319bb61b7307c51de.jpg",
-    "static/media/profile-pic.jpg": "/Codemasters00/static/media/profile-pic.c18231ea2da9b7618aa3.jpg",
-    "index.html": "/Codemasters00/index.html",
-    "main.0eda3d94.css.map": "/Codemasters00/static/css/main.0eda3d94.css.map",
-    "main.e31ab63f.js.map": "/Codemasters00/static/js/main.e31ab63f.js.map",
-    "787.e4349f12.chunk.js.map": "/Codemasters00/static/js/787.e4349f12.chunk.js.map"
+    "main.css": "/static/css/main.34350341.css",
+    "main.js": "/static/js/main.f608771f.js",
+    "static/js/787.e4349f12.chunk.js": "/static/js/787.e4349f12.chunk.js",
+    "static/media/image2.gif": "/static/media/image2.531abab947ac689a87ff.gif",
+    "static/media/contact-bg.jpg": "/static/media/contact-bg.a0c72406225e2b593c6e.jpg",
+    "static/media/certificate_banner.jpg": "/static/media/certificate_banner.422eded7ed587114ce4f.jpg",
+    "static/media/intern-image.png": "/static/media/intern-image.6cd663d0425c9bcb67f0.png",
+    "static/media/msme.png": "/static/media/msme.ad529d3a99a5e13c2eec.png",
+    "static/media/soft.png": "/static/media/soft.187738eb2111b18d6f00.png",
+    "static/media/data-science.png": "/static/media/data-science.0092e31c15c8dff57c37.png",
+    "static/media/fullstack.png": "/static/media/fullstack.aee0f771fbfc1e7b8fa8.png",
+    "static/media/ML.png": "/static/media/ML.e2c00e923906234914fc.png",
+    "static/media/web-dev.png": "/static/media/web-dev.41f99b70617623b2c394.png",
+    "static/media/image1.jpg": "/static/media/image1.c3e3a2effdd543b77810.jpg",
+    "static/media/java.png": "/static/media/java.8ae247a8cbc1d6150d68.png",
+    "static/media/python.png": "/static/media/python.6d8a3b491a6c70ccb5f2.png",
+    "static/media/Banner.jpg": "/static/media/Banner.f1c319bb61b7307c51de.jpg",
+    "static/media/profile-pic.jpg": "/static/media/profile-pic.c18231ea2da9b7618aa3.jpg",
+    "index.html": "/index.html",
+    "main.34350341.css.map": "/static/css/main.34350341.css.map",
+    "main.f608771f.js.map": "/static/js/main.f608771f.js.map",
+    "787.e4349f12.chunk.js.map": "/static/js/787.e4349f12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eda3d94.css",
-    "static/js/main.e31ab63f.js"
+    "static/css/main.34350341.css",
+    "static/js/main.f608771f.js"
   ]
 }
